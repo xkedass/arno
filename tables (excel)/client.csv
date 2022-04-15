@@ -1,0 +1,21 @@
+id_client;client_nom;client_prenom;client_sexe;client_adresse;client_ville;client_telephone;newsletter;client_codp;client_categorie;adresse_liv_client;id_commercial;coefficiant
+1;Hammett;Bonner;f;Ap #276-1431 Elementum, Avenue;Donetsk;1-885-359-8284;1;253116;1;2115 Neque Av.;1;1
+10;Teagan;Villarreal;m;Ap #434-4500 Cubilia Street;Enkhuizen;114-9281;0;26563;2;Ap #469-4811 Et, St.;3;1
+11;Thaddeus;Davidson;m;253-7347 Auctor St.;Bronnoysund;1-663-203-0764;1;665991;1;352-4626 Magna Avenue;3;2
+12;Jakeem;Carver;m;Ap #973-6624 Proin St.;Bollnas;1-428-946-8323;1;6599;2;Ap #308-320 Ipsum. Rd.;3;2
+13;Alexis;Henderson;m;Ap #917-8432 Ad Rd.;Mora;681-2424;0;11066;1;475-2529 Elementum St.;4;2
+14;Brody;Daniels;f;592-2338 Ornare, Street;Dole;263-8455;1;6373;1;Ap #866-1833 Tempor Ave;4;2
+15;Sybil;Ford;f;P.O. Box 976, 5480 Integer Ave;Forges;1-321-414-3141;1;1482;1;Ap #307-250 Donec Avenue;4;2
+16;Ryder;Sawyer;m;Ap #131-1267 Aliquam Avenue;Aguas Lindas de Goias;367-3523;0;83544;2;273-5325 Etiam Avenue;4;2
+17;Mason;Black;f;715-9572 Nam Road;Bucaramanga;1-733-363-5680;1;8113;1;P.O. Box 185, 2464 Sed Ave;5;2
+18;Roary;Rivers;f;Ap #781-5391 Consequat Road;Davao City;1-597-325-0622;0;87477;2;9344 Bibendum Rd.;5;2
+19;Penelope;Bentley;f;581-7279 Suscipit, Street;Yangsan;1-538-824-3533;1;4140;1;846-3027 Quis, Street;5;2
+2;Victor;Chan;m;Ap #602-6232 Tristique Ave;Jonkoping;773-2236;1;51317;2;948-5312 Hendrerit Avenue;1;1
+20;Vivian;Gallegos;f;570-3087 Integer St.;Dangjin;1-761-975-7179;0;386743;2;Ap #751-6221 Mollis Avenue;5;2
+3;Molly;Blair;f;Ap #906-564 Nullam Street;Soderhamn;610-4355;1;0;1;935-3215 Taciti St.;1;1
+4;Timon;Calhoun;m;P.O. Box 357, 231 Tincidunt Avenue;Girona;1-888-641-9863;0;43;2;2301 Nulla Rd.;1;1
+5;Karina;Mcneil;f;P.O. Box 101, 7174 Mauris Street;Bydgoszcz;1-367-873-4163;1;9501;1;P.O. Box 261, 8097 Nulla St.;2;1
+6;Benedict;Sharp;m;Ap #249-8047 Convallis Road;Tonala;584-8762;1;92905;2;989-2683 Ac Rd.;2;1
+7;Vera;Stafford;f;516-9256 Ipsum Street;Piedecuesta;703-7718;0;222501;1;678-5773 Ligula Rd.;2;1
+8;Zachery;Mendez;m;Ap #949-2427 Adipiscing Street;Tanglin;1-866-871-4429;0;37509;2;8031 Mauris. Ave;2;1
+9;Wesley;Peters;m;Ap #799-2991 Nec, Road;San Diego;133-0517;1;7365;1;711-4900 Proin Ave;3;1
